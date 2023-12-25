@@ -14,7 +14,7 @@ from openpilot.common.params import Params
 from openpilot.selfdrive.controls.lib.sunnypilot.helpers import debug
 
 TARGET_LAT_A = 1.9  # m/s^2
-MIN_TARGET_V = 5  # m/s
+MIN_TARGET_V = 4  # m/s
 
 PARAMS_UPDATE_PERIOD = 5.
 
